@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CIIE</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on CIIE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crear</title>
+      <link>/post/first/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description> Desarrollar procesos educativos. Crear equipos de trabajo capacitados e integrados.  </description>
+    </item>
+    
+    <item>
+      <title>Medir</title>
+      <link>/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description> Implantación de nuevas estrategias de acción. Evaluación de nuevos proyectos.  </description>
+    </item>
+    
+    <item>
+      <title>Mejorar</title>
+      <link>/post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description> Incrementar la calidad y excelencia escolar. Intercambiar proyectos exitosos internacionalmente.  </description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>/post/fourth/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>/post/fourth/</guid>
+      <description>Domicilio Ponciano Arriaga 15
+Despacho 101
+Col. Tabacalera
+Cuahutémoc, 06030
+México, CDMX
+Teléfonos +52 55 5566 0965
++52 55 3611 0012</description>
+    </item>
+    
+  </channel>
+</rss>
